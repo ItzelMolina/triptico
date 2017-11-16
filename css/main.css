@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background-color: #ffc107;
+  text-align: center;
+  border: 1px solid black;
+  margin: 0;
+
+}
+
+article {
+  border: 1px solid #000;
+  float: left;
+  width: 33.14%;
+  height: 400px;
+  margin: 0
+  tex-align: center;
+}
+
+footer {
+  clear: left;
+}
